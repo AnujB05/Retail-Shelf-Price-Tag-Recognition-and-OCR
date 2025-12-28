@@ -1,0 +1,52 @@
+[
+  {
+    "source_image": "20250529_035455-382.jpg",
+    "crop_name": "20250529_035455-382_tag0.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "Lti _l",
+    "price": "105",
+    "currency": null,
+    "value": "105",
+    "extra_info": "Lti _l|105"
+  },
+  {
+    "source_image": "20250529_035455-382.jpg",
+    "crop_name": "20250529_035455-382_tag1.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "509",
+    "price": "109",
+    "currency": null,
+    "value": "109",
+    "extra_info": "509"
+  },
+  {
+    "source_image": "20250529_035455-382.jpg",
+    "crop_name": "20250529_035455-382_tag2.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "みーーニーー",
+    "price": "105",
+    "currency": null,
+    "value": "105",
+    "extra_info": "Fazan|105|みーーニーー"
+  },
+  {
+    "source_image": "20250529_035455-382.jpg",
+    "crop_name": "20250529_035455-382_tag3.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "103",
+    "price": "109",
+    "currency": null,
+    "value": "109",
+    "extra_info": "103"
+  },
+  {
+    "source_image": "20250529_035455-382.jpg",
+    "crop_name": "20250529_035455-382_tag4.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "・う",
+    "price": "09",
+    "currency": null,
+    "value": "09",
+    "extra_info": "・う"
+  }
+]

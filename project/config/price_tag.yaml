@@ -1,0 +1,7 @@
+path: C:/Users/user/Desktop/MUSE/project/data/roboflow
+
+train: train/images
+val: train/images   # we will split automatically
+
+nc: 1
+names: ["price_tag"]

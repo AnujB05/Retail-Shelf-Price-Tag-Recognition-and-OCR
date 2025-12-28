@@ -1,0 +1,173 @@
+[
+  null,
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag1.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "30",
+    "price": "30",
+    "currency": null,
+    "value": "30",
+    "extra_info": "30"
+  },
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag2.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "149",
+    "price": "149",
+    "currency": null,
+    "value": "149",
+    "extra_info": "149"
+  },
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag3.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "30",
+    "price": "30",
+    "currency": null,
+    "value": "30",
+    "extra_info": "30"
+  },
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag4.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "103",
+    "price": "109",
+    "currency": null,
+    "value": "109",
+    "extra_info": "103"
+  },
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag5.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "19",
+    "price": "149",
+    "currency": null,
+    "value": "149",
+    "extra_info": "19"
+  },
+  null,
+  null,
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag8.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "35",
+    "price": "35",
+    "currency": null,
+    "value": "35",
+    "extra_info": "35"
+  },
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag9.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "W:",
+    "price": "11",
+    "currency": null,
+    "value": "11",
+    "extra_info": "W:"
+  },
+  null,
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag11.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "70",
+    "price": "70",
+    "currency": null,
+    "value": "70",
+    "extra_info": "70"
+  },
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag12.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "0",
+    "price": "5",
+    "currency": null,
+    "value": "5",
+    "extra_info": ""
+  },
+  null,
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag14.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "35",
+    "price": "35",
+    "currency": null,
+    "value": "35",
+    "extra_info": "35"
+  },
+  null,
+  null,
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag17.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "に",
+    "price": "3",
+    "currency": null,
+    "value": "3",
+    "extra_info": ""
+  },
+  null,
+  null,
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag20.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "39",
+    "price": "39",
+    "currency": null,
+    "value": "39",
+    "extra_info": "39"
+  },
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag21.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "139",
+    "price": "139",
+    "currency": null,
+    "value": "139",
+    "extra_info": "139"
+  },
+  null,
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag23.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "89",
+    "price": "89",
+    "currency": null,
+    "value": "89",
+    "extra_info": "89"
+  },
+  null,
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag25.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "1",
+    "price": "79",
+    "currency": null,
+    "value": "79",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag26.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "69",
+    "price": "69",
+    "currency": null,
+    "value": "69",
+    "extra_info": "69"
+  }
+]

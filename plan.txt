@@ -1,0 +1,46 @@
+1. Look at the images, see the following things:
+   - type of tags: price, name
+   - visibility
+2. Do augmentation
+   - price tag detection (YOLO): i. Geometry aug: random scaling - 0.7 to 1.3 - distance variation
+                                                  random crop - upto 20 percent - partial shelves
+                                                  horizontal shift - +- 15 percent - camera framing
+                                                  rotation - +- 10 degrees - handheld cameras
+                                                  perspective warp - 0.02 to 0.06 - shelf angle
+                                                  aspect ratio jitter - +-10 percent - camera lens
+                                 ii. Appearance aug: brightness - +- 30 percent -  store lighting
+                                                     contrast - +- 30 percent - label fading
+                                                     saturation - +- 20 percemt - camera differences
+                                                     gaussian noise - <= 10 - sensor noise
+                                                     motion blur - kernel <= 5 - hand movement
+                                                     jpeg compression - 60-95 - mobile capture
+                                 iii. Glare: Random transluscent or white elliptical blobs
+                                                opacity 0.2 to 0.5, covering 5 to 25 percent of tag
+                                             Local overexposure patches
+                                             Local contrast reduction
+   - OCR (Price reading): slight blur - kernel <= 3
+                          brightness - +- 20 percent
+                          contrast - +- 20 percent
+                          small rotation - +- 2 degrees
+                          jpeg objects - quality 70 to 95
+                          tiny occlusion - <= 5 percent
+   
+
+3. Splitting at the level of real images, and augmentation done on each split 
+
+4. Annotation (manually only for real images) - boxes around price tags, in YOLO format
+
+5. Models - YOLOv11 for price tag localization, COCO pretrained weights
+            Freeze backbone initially, Train detection head on augmented data, Light finetune of full network
+          - Price tag cropping
+          - PaddleOCR (Price reading)
+
+6. Inference time glare handling - cropped price tag to greyscale, apply CLAHE, OCR on both, select the one with higher confidence
+
+7. Training - Uses only augmented versions of 14 training , strong augmentation
+   Valdation - Uses 3 untouched real images, for threshold tuning and early starting
+   Testing - Uses 3 remaining images, final reporting
+
+8. Output - json: box coords, price
+
+9. Evals

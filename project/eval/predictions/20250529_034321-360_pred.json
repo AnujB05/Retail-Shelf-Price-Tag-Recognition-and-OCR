@@ -1,0 +1,66 @@
+[
+  null,
+  {
+    "source_image": "20250529_034321-360.jpg",
+    "crop_name": "20250529_034321-360_tag1.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "に",
+    "price": "3",
+    "currency": null,
+    "value": "3",
+    "extra_info": ""
+  },
+  null,
+  {
+    "source_image": "20250529_034321-360.jpg",
+    "crop_name": "20250529_034321-360_tag3.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "23",
+    "price": "1",
+    "currency": null,
+    "value": "1",
+    "extra_info": "23|Tk|Ia"
+  },
+  {
+    "source_image": "20250529_034321-360.jpg",
+    "crop_name": "20250529_034321-360_tag4.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "こう",
+    "price": "3",
+    "currency": null,
+    "value": "3",
+    "extra_info": "IJL|3I|Z6|B=|こう|なき"
+  },
+  {
+    "source_image": "20250529_034321-360.jpg",
+    "crop_name": "20250529_034321-360_tag5.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "ここ",
+    "price": "62",
+    "currency": null,
+    "value": "62",
+    "extra_info": "ここ|にこ三|す三"
+  },
+  null,
+  {
+    "source_image": "20250529_034321-360.jpg",
+    "crop_name": "20250529_034321-360_tag7.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "きた",
+    "price": "5",
+    "currency": null,
+    "value": "5",
+    "extra_info": "3lc|Cic|25|きた|う三"
+  },
+  {
+    "source_image": "20250529_034321-360.jpg",
+    "crop_name": "20250529_034321-360_tag8.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "こりう",
+    "price": "3",
+    "currency": null,
+    "value": "3",
+    "extra_info": "Et6|4i1|こりう|‥うう"
+  },
+  null
+]

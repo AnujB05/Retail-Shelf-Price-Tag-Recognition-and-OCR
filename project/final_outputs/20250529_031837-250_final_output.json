@@ -1,0 +1,42 @@
+[
+  {
+    "source_image": "20250529_031837-250.jpg",
+    "crop_name": "20250529_031837-250_tag0.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "マリーム袋",
+    "price": "229",
+    "currency": null,
+    "value": "229",
+    "extra_info": "7v-4R|マリーム袋|229"
+  },
+  {
+    "source_image": "20250529_031837-250.jpg",
+    "crop_name": "20250529_031837-250_tag1.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "J0-{-17 <",
+    "price": "109",
+    "currency": null,
+    "value": "109",
+    "extra_info": "J0-{-17 <|クリーミークフ*|109"
+  },
+  {
+    "source_image": "20250529_031837-250.jpg",
+    "crop_name": "20250529_031837-250_tag2.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "クリーミーューニー ー",
+    "price": "219",
+    "currency": null,
+    "value": "219",
+    "extra_info": "70467-0|219|クリーミーューニー ー"
+  },
+  {
+    "source_image": "20250529_031837-250.jpg",
+    "crop_name": "20250529_031837-250_tag3.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "マリーム合すあき",
+    "price": "229",
+    "currency": null,
+    "value": "229",
+    "extra_info": "Zv-L8aba|マリーム合すあき|229"
+  }
+]

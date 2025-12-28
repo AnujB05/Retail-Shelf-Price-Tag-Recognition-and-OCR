@@ -1,0 +1,1402 @@
+[
+  {
+    "source_image": "20240913_161202_1111_2.jpg",
+    "crop_name": "20240913_161202_1111_2_tag0.jpg",
+    "variant_used": "orig",
+    "product_name": "12",
+    "price": "12",
+    "currency": null,
+    "value": "12",
+    "extra_info": "12"
+  },
+  {
+    "source_image": "20240913_161202_1111_2.jpg",
+    "crop_name": "20240913_161202_1111_2_tag1.jpg",
+    "variant_used": "clahe",
+    "product_name": "99",
+    "price": "99",
+    "currency": null,
+    "value": "99",
+    "extra_info": "99"
+  },
+  {
+    "source_image": "20240913_161202_1111_2.jpg",
+    "crop_name": "20240913_161202_1111_2_tag2.jpg",
+    "variant_used": "clahe",
+    "product_name": "19",
+    "price": "149",
+    "currency": null,
+    "value": "149",
+    "extra_info": "19"
+  },
+  {
+    "source_image": "20240913_161202_1111_2.jpg",
+    "crop_name": "20240913_161202_1111_2_tag3.jpg",
+    "variant_used": "sharp",
+    "product_name": "99",
+    "price": "39",
+    "currency": null,
+    "value": "39",
+    "extra_info": "99"
+  },
+  {
+    "source_image": "20240913_161202_1111_2.jpg",
+    "crop_name": "20240913_161202_1111_2_tag4.jpg",
+    "variant_used": "thr",
+    "product_name": ":",
+    "price": "35",
+    "currency": null,
+    "value": "35",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161202_1111_2.jpg",
+    "crop_name": "20240913_161202_1111_2_tag5.jpg",
+    "variant_used": "sharp",
+    "product_name": "9",
+    "price": "99",
+    "currency": null,
+    "value": "99",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161202_1111_2.jpg",
+    "crop_name": "20240913_161202_1111_2_tag6.jpg",
+    "variant_used": "sharp",
+    "product_name": "2",
+    "price": "70",
+    "currency": null,
+    "value": "70",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161202_1111_2.jpg",
+    "crop_name": "20240913_161202_1111_2_tag7.jpg",
+    "variant_used": "clahe",
+    "product_name": "2",
+    "price": "79",
+    "currency": null,
+    "value": "79",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161202_1111_2.jpg",
+    "crop_name": "20240913_161202_1111_2_tag8.jpg",
+    "variant_used": "clahe",
+    "product_name": "99",
+    "price": "49",
+    "currency": null,
+    "value": "49",
+    "extra_info": "99"
+  },
+  {
+    "source_image": "20240913_161202_1111_2.jpg",
+    "crop_name": "20240913_161202_1111_2_tag9.jpg",
+    "variant_used": "orig",
+    "product_name": "29",
+    "price": "20",
+    "currency": null,
+    "value": "20",
+    "extra_info": "29"
+  },
+  {
+    "source_image": "20240913_161202_1111_2.jpg",
+    "crop_name": "20240913_161202_1111_2_tag10.jpg",
+    "variant_used": "sharp",
+    "product_name": "作",
+    "price": "35",
+    "currency": null,
+    "value": "35",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161202_1111_2.jpg",
+    "crop_name": "20240913_161202_1111_2_tag11.jpg",
+    "variant_used": "orig",
+    "product_name": "7",
+    "price": "69",
+    "currency": null,
+    "value": "69",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161202_1111_3.jpg",
+    "crop_name": "20240913_161202_1111_3_tag0.jpg",
+    "variant_used": "clahe",
+    "product_name": "15",
+    "price": "1",
+    "currency": null,
+    "value": "1",
+    "extra_info": "15"
+  },
+  {
+    "source_image": "20240913_161202_1111_3.jpg",
+    "crop_name": "20240913_161202_1111_3_tag1.jpg",
+    "variant_used": "sharp",
+    "product_name": "7",
+    "price": "79",
+    "currency": null,
+    "value": "79",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161202_1111_3.jpg",
+    "crop_name": "20240913_161202_1111_3_tag2.jpg",
+    "variant_used": "orig",
+    "product_name": "岳",
+    "price": "35",
+    "currency": null,
+    "value": "35",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161202_1111_3.jpg",
+    "crop_name": "20240913_161202_1111_3_tag3.jpg",
+    "variant_used": "clahe",
+    "product_name": "晩",
+    "price": "69",
+    "currency": null,
+    "value": "69",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161202_1111_3.jpg",
+    "crop_name": "20240913_161202_1111_3_tag4.jpg",
+    "variant_used": "clahe",
+    "product_name": "1",
+    "price": "15",
+    "currency": null,
+    "value": "15",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161202_1111_3.jpg",
+    "crop_name": "20240913_161202_1111_3_tag5.jpg",
+    "variant_used": "clahe",
+    "product_name": "35",
+    "price": "35",
+    "currency": null,
+    "value": "35",
+    "extra_info": "35"
+  },
+  {
+    "source_image": "20240913_161202_1111_3.jpg",
+    "crop_name": "20240913_161202_1111_3_tag6.jpg",
+    "variant_used": "clahe",
+    "product_name": "23",
+    "price": "23",
+    "currency": null,
+    "value": "23",
+    "extra_info": "23"
+  },
+  {
+    "source_image": "20240913_161202_1111_3.jpg",
+    "crop_name": "20240913_161202_1111_3_tag7.jpg",
+    "variant_used": "clahe",
+    "product_name": "|",
+    "price": "35",
+    "currency": null,
+    "value": "35",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161202_1111_3.jpg",
+    "crop_name": "20240913_161202_1111_3_tag8.jpg",
+    "variant_used": "orig",
+    "product_name": "1",
+    "price": "15",
+    "currency": null,
+    "value": "15",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161240_1108_1.jpg",
+    "crop_name": "20240913_161240_1108_1_tag0.jpg",
+    "variant_used": "clahe",
+    "product_name": "579",
+    "price": "579",
+    "currency": null,
+    "value": "579",
+    "extra_info": "579"
+  },
+  {
+    "source_image": "20240913_161240_1108_1.jpg",
+    "crop_name": "20240913_161240_1108_1_tag1.jpg",
+    "variant_used": "thr",
+    "product_name": ":町=",
+    "price": "399",
+    "currency": null,
+    "value": "399",
+    "extra_info": ":町="
+  },
+  {
+    "source_image": "20240913_161240_1108_1.jpg",
+    "crop_name": "20240913_161240_1108_1_tag2.jpg",
+    "variant_used": "clahe",
+    "product_name": "99",
+    "price": "99",
+    "currency": null,
+    "value": "99",
+    "extra_info": "99"
+  },
+  {
+    "source_image": "20240913_161240_1108_1.jpg",
+    "crop_name": "20240913_161240_1108_1_tag3.jpg",
+    "variant_used": "orig",
+    "product_name": "399",
+    "price": "399",
+    "currency": null,
+    "value": "399",
+    "extra_info": "399"
+  },
+  {
+    "source_image": "20240913_161240_1108_1.jpg",
+    "crop_name": "20240913_161240_1108_1_tag4.jpg",
+    "variant_used": "sharp",
+    "product_name": "299",
+    "price": "299",
+    "currency": null,
+    "value": "299",
+    "extra_info": "299"
+  },
+  {
+    "source_image": "20240913_161240_1108_1.jpg",
+    "crop_name": "20240913_161240_1108_1_tag5.jpg",
+    "variant_used": "clahe",
+    "product_name": "399",
+    "price": "399",
+    "currency": null,
+    "value": "399",
+    "extra_info": "399"
+  },
+  {
+    "source_image": "20240913_161240_1108_1.jpg",
+    "crop_name": "20240913_161240_1108_1_tag6.jpg",
+    "variant_used": "clahe",
+    "product_name": "499",
+    "price": "499",
+    "currency": null,
+    "value": "499",
+    "extra_info": "499"
+  },
+  {
+    "source_image": "20240913_161240_1108_1.jpg",
+    "crop_name": "20240913_161240_1108_1_tag7.jpg",
+    "variant_used": "orig",
+    "product_name": "129",
+    "price": "129",
+    "currency": null,
+    "value": "129",
+    "extra_info": "129"
+  },
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag0.jpg",
+    "variant_used": "thr",
+    "product_name": "[",
+    "price": null,
+    "currency": null,
+    "value": null,
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag1.jpg",
+    "variant_used": "clahe",
+    "product_name": "1",
+    "price": "4",
+    "currency": null,
+    "value": "4",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag2.jpg",
+    "variant_used": "clahe",
+    "product_name": "139",
+    "price": "139",
+    "currency": null,
+    "value": "139",
+    "extra_info": "139"
+  },
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag3.jpg",
+    "variant_used": "clahe",
+    "product_name": "5",
+    "price": "50",
+    "currency": null,
+    "value": "50",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag4.jpg",
+    "variant_used": "clahe",
+    "product_name": "3",
+    "price": "30",
+    "currency": null,
+    "value": "30",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag5.jpg",
+    "variant_used": "clahe",
+    "product_name": "3』",
+    "price": "30",
+    "currency": null,
+    "value": "30",
+    "extra_info": "3』"
+  },
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag6.jpg",
+    "variant_used": "orig",
+    "product_name": "109",
+    "price": "1",
+    "currency": null,
+    "value": "1",
+    "extra_info": "109"
+  },
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag9.jpg",
+    "variant_used": "clahe",
+    "product_name": "35",
+    "price": "35",
+    "currency": null,
+    "value": "35",
+    "extra_info": "35"
+  },
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag11.jpg",
+    "variant_used": "sharp",
+    "product_name": "117",
+    "price": "119",
+    "currency": null,
+    "value": "119",
+    "extra_info": "117"
+  },
+  {
+    "source_image": "20240913_161256_1108_3.jpg",
+    "crop_name": "20240913_161256_1108_3_tag12.jpg",
+    "variant_used": "sharp",
+    "product_name": "149",
+    "price": "1",
+    "currency": null,
+    "value": "1",
+    "extra_info": "149"
+  },
+  {
+    "source_image": "20240913_161312_1107_1.jpg",
+    "crop_name": "20240913_161312_1107_1_tag0.jpg",
+    "variant_used": "clahe",
+    "product_name": "299",
+    "price": "299",
+    "currency": null,
+    "value": "299",
+    "extra_info": "299"
+  },
+  {
+    "source_image": "20240913_161312_1107_1.jpg",
+    "crop_name": "20240913_161312_1107_1_tag1.jpg",
+    "variant_used": "sharp",
+    "product_name": "299",
+    "price": "499",
+    "currency": null,
+    "value": "499",
+    "extra_info": "299"
+  },
+  {
+    "source_image": "20240913_161312_1107_1.jpg",
+    "crop_name": "20240913_161312_1107_1_tag2.jpg",
+    "variant_used": "clahe",
+    "product_name": "299",
+    "price": "299",
+    "currency": null,
+    "value": "299",
+    "extra_info": "299"
+  },
+  {
+    "source_image": "20240913_161312_1107_1.jpg",
+    "crop_name": "20240913_161312_1107_1_tag3.jpg",
+    "variant_used": "orig",
+    "product_name": "三高う",
+    "price": "129",
+    "currency": null,
+    "value": "129",
+    "extra_info": "342 | 三高う | 12"
+  },
+  {
+    "source_image": "20240913_161312_1107_1.jpg",
+    "crop_name": "20240913_161312_1107_1_tag4.jpg",
+    "variant_used": "clahe",
+    "product_name": "99",
+    "price": "99",
+    "currency": null,
+    "value": "99",
+    "extra_info": "99"
+  },
+  {
+    "source_image": "20240913_161312_1107_1.jpg",
+    "crop_name": "20240913_161312_1107_1_tag5.jpg",
+    "variant_used": "sharp",
+    "product_name": "359",
+    "price": "359",
+    "currency": null,
+    "value": "359",
+    "extra_info": "359"
+  },
+  {
+    "source_image": "20240913_161312_1107_1.jpg",
+    "crop_name": "20240913_161312_1107_1_tag6.jpg",
+    "variant_used": "orig",
+    "product_name": "569",
+    "price": "569",
+    "currency": null,
+    "value": "569",
+    "extra_info": "569"
+  },
+  {
+    "source_image": "20240913_161312_1107_2.jpg",
+    "crop_name": "20240913_161312_1107_2_tag0.jpg",
+    "variant_used": "orig",
+    "product_name": "241",
+    "price": "279",
+    "currency": null,
+    "value": "279",
+    "extra_info": "241"
+  },
+  {
+    "source_image": "20240913_161312_1107_2.jpg",
+    "crop_name": "20240913_161312_1107_2_tag1.jpg",
+    "variant_used": "clahe",
+    "product_name": "サールューーュキョー",
+    "price": "279",
+    "currency": null,
+    "value": "279",
+    "extra_info": "Te_1ns | サールューーュキョー | 979"
+  },
+  {
+    "source_image": "20240913_161312_1107_2.jpg",
+    "crop_name": "20240913_161312_1107_2_tag2.jpg",
+    "variant_used": "sharp",
+    "product_name": "219",
+    "price": "279",
+    "currency": null,
+    "value": "279",
+    "extra_info": "219"
+  },
+  {
+    "source_image": "20240913_161312_1107_2.jpg",
+    "crop_name": "20240913_161312_1107_2_tag3.jpg",
+    "variant_used": "sharp",
+    "product_name": "179",
+    "price": "179",
+    "currency": null,
+    "value": "179",
+    "extra_info": "179"
+  },
+  {
+    "source_image": "20240913_161312_1107_2.jpg",
+    "crop_name": "20240913_161312_1107_2_tag4.jpg",
+    "variant_used": "sharp",
+    "product_name": "119",
+    "price": "119",
+    "currency": null,
+    "value": "119",
+    "extra_info": "119"
+  },
+  {
+    "source_image": "20240913_161312_1107_2.jpg",
+    "crop_name": "20240913_161312_1107_2_tag5.jpg",
+    "variant_used": "clahe",
+    "product_name": "たりしつし",
+    "price": "1",
+    "currency": null,
+    "value": "1",
+    "extra_info": "OE | 149 | たりしつし"
+  },
+  {
+    "source_image": "20240913_161312_1107_2.jpg",
+    "crop_name": "20240913_161312_1107_2_tag6.jpg",
+    "variant_used": "clahe",
+    "product_name": "99",
+    "price": "99",
+    "currency": null,
+    "value": "99",
+    "extra_info": "99"
+  },
+  {
+    "source_image": "20240913_161312_1107_2.jpg",
+    "crop_name": "20240913_161312_1107_2_tag7.jpg",
+    "variant_used": "clahe",
+    "product_name": "299",
+    "price": "299",
+    "currency": null,
+    "value": "299",
+    "extra_info": "299"
+  },
+  {
+    "source_image": "20240913_161312_1107_2.jpg",
+    "crop_name": "20240913_161312_1107_2_tag8.jpg",
+    "variant_used": "clahe",
+    "product_name": "9",
+    "price": "99",
+    "currency": null,
+    "value": "99",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161312_1107_2.jpg",
+    "crop_name": "20240913_161312_1107_2_tag9.jpg",
+    "variant_used": "clahe",
+    "product_name": "139",
+    "price": "189",
+    "currency": null,
+    "value": "189",
+    "extra_info": "139"
+  },
+  {
+    "source_image": "20240913_161312_1107_2.jpg",
+    "crop_name": "20240913_161312_1107_2_tag10.jpg",
+    "variant_used": "clahe",
+    "product_name": "279",
+    "price": "219",
+    "currency": null,
+    "value": "219",
+    "extra_info": "279"
+  },
+  {
+    "source_image": "20240913_161312_1107_2.jpg",
+    "crop_name": "20240913_161312_1107_2_tag11.jpg",
+    "variant_used": "orig",
+    "product_name": "19",
+    "price": "139",
+    "currency": null,
+    "value": "139",
+    "extra_info": "19"
+  },
+  {
+    "source_image": "20240913_161312_1107_2.jpg",
+    "crop_name": "20240913_161312_1107_2_tag12.jpg",
+    "variant_used": "clahe",
+    "product_name": "189",
+    "price": "139",
+    "currency": null,
+    "value": "139",
+    "extra_info": "189"
+  },
+  {
+    "source_image": "20240913_161312_1107_2.jpg",
+    "crop_name": "20240913_161312_1107_2_tag13.jpg",
+    "variant_used": "clahe",
+    "product_name": "199",
+    "price": "199",
+    "currency": null,
+    "value": "199",
+    "extra_info": "199"
+  },
+  {
+    "source_image": "20240913_161312_1107_2.jpg",
+    "crop_name": "20240913_161312_1107_2_tag14.jpg",
+    "variant_used": "clahe",
+    "product_name": "239",
+    "price": "239",
+    "currency": null,
+    "value": "239",
+    "extra_info": "239"
+  },
+  {
+    "source_image": "20240913_161312_1107_2.jpg",
+    "crop_name": "20240913_161312_1107_2_tag15.jpg",
+    "variant_used": "clahe",
+    "product_name": "299",
+    "price": "299",
+    "currency": null,
+    "value": "299",
+    "extra_info": "299"
+  },
+  {
+    "source_image": "20240913_161312_1107_2.jpg",
+    "crop_name": "20240913_161312_1107_2_tag16.jpg",
+    "variant_used": "clahe",
+    "product_name": "259",
+    "price": "259",
+    "currency": null,
+    "value": "259",
+    "extra_info": "259"
+  },
+  {
+    "source_image": "20240913_161312_1107_2.jpg",
+    "crop_name": "20240913_161312_1107_2_tag17.jpg",
+    "variant_used": "clahe",
+    "product_name": "99",
+    "price": "99",
+    "currency": null,
+    "value": "99",
+    "extra_info": "99"
+  },
+  {
+    "source_image": "20240913_161312_1107_3.jpg",
+    "crop_name": "20240913_161312_1107_3_tag0.jpg",
+    "variant_used": "clahe",
+    "product_name": "199",
+    "price": "199",
+    "currency": null,
+    "value": "199",
+    "extra_info": "199"
+  },
+  {
+    "source_image": "20240913_161312_1107_3.jpg",
+    "crop_name": "20240913_161312_1107_3_tag1.jpg",
+    "variant_used": "clahe",
+    "product_name": "西",
+    "price": "35",
+    "currency": null,
+    "value": "35",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161312_1107_3.jpg",
+    "crop_name": "20240913_161312_1107_3_tag2.jpg",
+    "variant_used": "sharp",
+    "product_name": "199",
+    "price": "149",
+    "currency": null,
+    "value": "149",
+    "extra_info": "199"
+  },
+  {
+    "source_image": "20240913_161312_1107_3.jpg",
+    "crop_name": "20240913_161312_1107_3_tag3.jpg",
+    "variant_used": "clahe",
+    "product_name": "99",
+    "price": "99",
+    "currency": null,
+    "value": "99",
+    "extra_info": "99"
+  },
+  {
+    "source_image": "20240913_161312_1107_3.jpg",
+    "crop_name": "20240913_161312_1107_3_tag4.jpg",
+    "variant_used": "clahe",
+    "product_name": "199",
+    "price": "159",
+    "currency": null,
+    "value": "159",
+    "extra_info": "199"
+  },
+  {
+    "source_image": "20240913_161312_1107_3.jpg",
+    "crop_name": "20240913_161312_1107_3_tag5.jpg",
+    "variant_used": "clahe",
+    "product_name": "19",
+    "price": "109",
+    "currency": null,
+    "value": "109",
+    "extra_info": "19"
+  },
+  {
+    "source_image": "20240913_161312_1107_3.jpg",
+    "crop_name": "20240913_161312_1107_3_tag6.jpg",
+    "variant_used": "clahe",
+    "product_name": "199",
+    "price": "199",
+    "currency": null,
+    "value": "199",
+    "extra_info": "199"
+  },
+  {
+    "source_image": "20240913_161312_1107_3.jpg",
+    "crop_name": "20240913_161312_1107_3_tag7.jpg",
+    "variant_used": "clahe",
+    "product_name": "79",
+    "price": "79",
+    "currency": null,
+    "value": "79",
+    "extra_info": "79"
+  },
+  {
+    "source_image": "20240913_161312_1107_3.jpg",
+    "crop_name": "20240913_161312_1107_3_tag8.jpg",
+    "variant_used": "clahe",
+    "product_name": "139",
+    "price": "139",
+    "currency": null,
+    "value": "139",
+    "extra_info": "139"
+  },
+  {
+    "source_image": "20240913_161312_1107_3.jpg",
+    "crop_name": "20240913_161312_1107_3_tag9.jpg",
+    "variant_used": "clahe",
+    "product_name": "79",
+    "price": "79",
+    "currency": null,
+    "value": "79",
+    "extra_info": "79"
+  },
+  {
+    "source_image": "20240913_161312_1107_3.jpg",
+    "crop_name": "20240913_161312_1107_3_tag10.jpg",
+    "variant_used": "clahe",
+    "product_name": "89",
+    "price": "89",
+    "currency": null,
+    "value": "89",
+    "extra_info": "89"
+  },
+  {
+    "source_image": "20240913_161312_1107_3.jpg",
+    "crop_name": "20240913_161312_1107_3_tag11.jpg",
+    "variant_used": "clahe",
+    "product_name": "149",
+    "price": "149",
+    "currency": null,
+    "value": "149",
+    "extra_info": "149"
+  },
+  {
+    "source_image": "20240913_161312_1107_3.jpg",
+    "crop_name": "20240913_161312_1107_3_tag12.jpg",
+    "variant_used": "clahe",
+    "product_name": "198",
+    "price": "109",
+    "currency": null,
+    "value": "109",
+    "extra_info": "198"
+  },
+  {
+    "source_image": "20240913_161821_921_2.jpg",
+    "crop_name": "20240913_161821_921_2_tag0.jpg",
+    "variant_used": "clahe",
+    "product_name": "199",
+    "price": "199",
+    "currency": null,
+    "value": "199",
+    "extra_info": "199"
+  },
+  {
+    "source_image": "20240913_161821_921_2.jpg",
+    "crop_name": "20240913_161821_921_2_tag1.jpg",
+    "variant_used": "clahe",
+    "product_name": "1",
+    "price": "199",
+    "currency": null,
+    "value": "199",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161821_921_2.jpg",
+    "crop_name": "20240913_161821_921_2_tag2.jpg",
+    "variant_used": "sharp",
+    "product_name": "199",
+    "price": "199",
+    "currency": null,
+    "value": "199",
+    "extra_info": "199"
+  },
+  {
+    "source_image": "20240913_161821_921_2.jpg",
+    "crop_name": "20240913_161821_921_2_tag3.jpg",
+    "variant_used": "clahe",
+    "product_name": "5",
+    "price": "599",
+    "currency": null,
+    "value": "599",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161821_921_2.jpg",
+    "crop_name": "20240913_161821_921_2_tag4.jpg",
+    "variant_used": "orig",
+    "product_name": "1",
+    "price": "199",
+    "currency": null,
+    "value": "199",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161821_921_2.jpg",
+    "crop_name": "20240913_161821_921_2_tag5.jpg",
+    "variant_used": "clahe",
+    "product_name": "349",
+    "price": "39",
+    "currency": null,
+    "value": "39",
+    "extra_info": "349"
+  },
+  {
+    "source_image": "20240913_161821_921_2.jpg",
+    "crop_name": "20240913_161821_921_2_tag6.jpg",
+    "variant_used": "clahe",
+    "product_name": "599",
+    "price": "599",
+    "currency": null,
+    "value": "599",
+    "extra_info": "599"
+  },
+  {
+    "source_image": "20240913_161821_921_2.jpg",
+    "crop_name": "20240913_161821_921_2_tag7.jpg",
+    "variant_used": "clahe",
+    "product_name": "199",
+    "price": "199",
+    "currency": null,
+    "value": "199",
+    "extra_info": "199"
+  },
+  {
+    "source_image": "20240913_161821_921_2.jpg",
+    "crop_name": "20240913_161821_921_2_tag8.jpg",
+    "variant_used": "sharp",
+    "product_name": "129",
+    "price": "729",
+    "currency": null,
+    "value": "729",
+    "extra_info": "129"
+  },
+  {
+    "source_image": "20240913_161821_921_2.jpg",
+    "crop_name": "20240913_161821_921_2_tag9.jpg",
+    "variant_used": "clahe",
+    "product_name": "199",
+    "price": "199",
+    "currency": null,
+    "value": "199",
+    "extra_info": "199"
+  },
+  {
+    "source_image": "20240913_161821_921_2.jpg",
+    "crop_name": "20240913_161821_921_2_tag10.jpg",
+    "variant_used": "orig",
+    "product_name": "199",
+    "price": "199",
+    "currency": null,
+    "value": "199",
+    "extra_info": "199"
+  },
+  {
+    "source_image": "20240913_161821_921_2.jpg",
+    "crop_name": "20240913_161821_921_2_tag11.jpg",
+    "variant_used": "thr",
+    "product_name": "299",
+    "price": "299",
+    "currency": null,
+    "value": "299",
+    "extra_info": "299"
+  },
+  {
+    "source_image": "20240913_161821_921_2.jpg",
+    "crop_name": "20240913_161821_921_2_tag12.jpg",
+    "variant_used": "clahe",
+    "product_name": "12",
+    "price": "129",
+    "currency": null,
+    "value": "129",
+    "extra_info": "12"
+  },
+  {
+    "source_image": "20240913_161821_921_2.jpg",
+    "crop_name": "20240913_161821_921_2_tag13.jpg",
+    "variant_used": "sharp",
+    "product_name": "129",
+    "price": "1",
+    "currency": null,
+    "value": "1",
+    "extra_info": "129"
+  },
+  {
+    "source_image": "20240913_161821_921_2.jpg",
+    "crop_name": "20240913_161821_921_2_tag14.jpg",
+    "variant_used": "thr",
+    "product_name": "@",
+    "price": "299",
+    "currency": null,
+    "value": "299",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161821_921_2.jpg",
+    "crop_name": "20240913_161821_921_2_tag15.jpg",
+    "variant_used": "clahe",
+    "product_name": "199",
+    "price": "199",
+    "currency": null,
+    "value": "199",
+    "extra_info": "199"
+  },
+  {
+    "source_image": "20240913_161821_921_2.jpg",
+    "crop_name": "20240913_161821_921_2_tag16.jpg",
+    "variant_used": "clahe",
+    "product_name": "199",
+    "price": "199",
+    "currency": null,
+    "value": "199",
+    "extra_info": "199"
+  },
+  {
+    "source_image": "20240913_161821_921_2.jpg",
+    "crop_name": "20240913_161821_921_2_tag17.jpg",
+    "variant_used": "clahe",
+    "product_name": "329",
+    "price": "379",
+    "currency": null,
+    "value": "379",
+    "extra_info": "329"
+  },
+  {
+    "source_image": "20240913_161821_921_2.jpg",
+    "crop_name": "20240913_161821_921_2_tag18.jpg",
+    "variant_used": "clahe",
+    "product_name": "299",
+    "price": "399",
+    "currency": null,
+    "value": "399",
+    "extra_info": "299"
+  },
+  {
+    "source_image": "20240913_161821_921_2.jpg",
+    "crop_name": "20240913_161821_921_2_tag19.jpg",
+    "variant_used": "clahe",
+    "product_name": "399",
+    "price": "399",
+    "currency": null,
+    "value": "399",
+    "extra_info": "399"
+  },
+  {
+    "source_image": "20240913_161821_921_2.jpg",
+    "crop_name": "20240913_161821_921_2_tag20.jpg",
+    "variant_used": "clahe",
+    "product_name": "259",
+    "price": "259",
+    "currency": null,
+    "value": "259",
+    "extra_info": "259"
+  },
+  {
+    "source_image": "20240913_161821_921_2.jpg",
+    "crop_name": "20240913_161821_921_2_tag21.jpg",
+    "variant_used": "clahe",
+    "product_name": "199",
+    "price": "199",
+    "currency": null,
+    "value": "199",
+    "extra_info": "199"
+  },
+  {
+    "source_image": "20240913_161821_921_3.jpg",
+    "crop_name": "20240913_161821_921_3_tag0.jpg",
+    "variant_used": "orig",
+    "product_name": "119",
+    "price": "119",
+    "currency": null,
+    "value": "119",
+    "extra_info": "119"
+  },
+  {
+    "source_image": "20240913_161821_921_3.jpg",
+    "crop_name": "20240913_161821_921_3_tag1.jpg",
+    "variant_used": "orig",
+    "product_name": "19",
+    "price": "109",
+    "currency": null,
+    "value": "109",
+    "extra_info": "19"
+  },
+  {
+    "source_image": "20240913_161821_921_3.jpg",
+    "crop_name": "20240913_161821_921_3_tag2.jpg",
+    "variant_used": "orig",
+    "product_name": "119",
+    "price": "119",
+    "currency": null,
+    "value": "119",
+    "extra_info": "119"
+  },
+  {
+    "source_image": "20240913_161821_921_3.jpg",
+    "crop_name": "20240913_161821_921_3_tag3.jpg",
+    "variant_used": "clahe",
+    "product_name": "19",
+    "price": "149",
+    "currency": null,
+    "value": "149",
+    "extra_info": "19"
+  },
+  {
+    "source_image": "20240913_161821_921_3.jpg",
+    "crop_name": "20240913_161821_921_3_tag4.jpg",
+    "variant_used": "orig",
+    "product_name": "19",
+    "price": "109",
+    "currency": null,
+    "value": "109",
+    "extra_info": "19"
+  },
+  {
+    "source_image": "20240913_161821_921_3.jpg",
+    "crop_name": "20240913_161821_921_3_tag5.jpg",
+    "variant_used": "clahe",
+    "product_name": "119",
+    "price": "119",
+    "currency": null,
+    "value": "119",
+    "extra_info": "119"
+  },
+  {
+    "source_image": "20240913_161821_921_3.jpg",
+    "crop_name": "20240913_161821_921_3_tag6.jpg",
+    "variant_used": "orig",
+    "product_name": "19",
+    "price": "109",
+    "currency": null,
+    "value": "109",
+    "extra_info": "19"
+  },
+  {
+    "source_image": "20240913_161821_921_3.jpg",
+    "crop_name": "20240913_161821_921_3_tag7.jpg",
+    "variant_used": "orig",
+    "product_name": "409",
+    "price": "109",
+    "currency": null,
+    "value": "109",
+    "extra_info": "409"
+  },
+  {
+    "source_image": "20240913_161821_921_3.jpg",
+    "crop_name": "20240913_161821_921_3_tag8.jpg",
+    "variant_used": "sharp",
+    "product_name": "159",
+    "price": "159",
+    "currency": null,
+    "value": "159",
+    "extra_info": "159"
+  },
+  {
+    "source_image": "20240913_161821_921_3.jpg",
+    "crop_name": "20240913_161821_921_3_tag9.jpg",
+    "variant_used": "clahe",
+    "product_name": "1",
+    "price": "109",
+    "currency": null,
+    "value": "109",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161821_921_3.jpg",
+    "crop_name": "20240913_161821_921_3_tag10.jpg",
+    "variant_used": "orig",
+    "product_name": "959",
+    "price": "259",
+    "currency": null,
+    "value": "259",
+    "extra_info": "959"
+  },
+  {
+    "source_image": "20240913_161821_921_3.jpg",
+    "crop_name": "20240913_161821_921_3_tag11.jpg",
+    "variant_used": "clahe",
+    "product_name": "109",
+    "price": "109",
+    "currency": null,
+    "value": "109",
+    "extra_info": "109"
+  },
+  {
+    "source_image": "20240913_161821_921_3.jpg",
+    "crop_name": "20240913_161821_921_3_tag12.jpg",
+    "variant_used": "clahe",
+    "product_name": "19",
+    "price": "199",
+    "currency": null,
+    "value": "199",
+    "extra_info": "19"
+  },
+  {
+    "source_image": "20240913_161821_921_3.jpg",
+    "crop_name": "20240913_161821_921_3_tag13.jpg",
+    "variant_used": "orig",
+    "product_name": "109",
+    "price": "109",
+    "currency": null,
+    "value": "109",
+    "extra_info": "109"
+  },
+  {
+    "source_image": "20240913_161821_921_3.jpg",
+    "crop_name": "20240913_161821_921_3_tag14.jpg",
+    "variant_used": "orig",
+    "product_name": "199",
+    "price": "199",
+    "currency": null,
+    "value": "199",
+    "extra_info": "199"
+  },
+  {
+    "source_image": "20240913_161821_921_3.jpg",
+    "crop_name": "20240913_161821_921_3_tag15.jpg",
+    "variant_used": "clahe",
+    "product_name": "99",
+    "price": "299",
+    "currency": null,
+    "value": "299",
+    "extra_info": "99"
+  },
+  {
+    "source_image": "20240913_161859_924_1.jpg",
+    "crop_name": "20240913_161859_924_1_tag0.jpg",
+    "variant_used": "clahe",
+    "product_name": "259",
+    "price": "259",
+    "currency": null,
+    "value": "259",
+    "extra_info": "259"
+  },
+  {
+    "source_image": "20240913_161859_924_1.jpg",
+    "crop_name": "20240913_161859_924_1_tag1.jpg",
+    "variant_used": "clahe",
+    "product_name": "2",
+    "price": "259",
+    "currency": null,
+    "value": "259",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20240913_161859_924_1.jpg",
+    "crop_name": "20240913_161859_924_1_tag2.jpg",
+    "variant_used": "clahe",
+    "product_name": "259",
+    "price": "259",
+    "currency": null,
+    "value": "259",
+    "extra_info": "259"
+  },
+  {
+    "source_image": "20240913_161859_924_1.jpg",
+    "crop_name": "20240913_161859_924_1_tag3.jpg",
+    "variant_used": "clahe",
+    "product_name": "259",
+    "price": "259",
+    "currency": null,
+    "value": "259",
+    "extra_info": "259"
+  },
+  {
+    "source_image": "20240913_161859_924_1.jpg",
+    "crop_name": "20240913_161859_924_1_tag4.jpg",
+    "variant_used": "orig",
+    "product_name": "29",
+    "price": "259",
+    "currency": null,
+    "value": "259",
+    "extra_info": "29"
+  },
+  {
+    "source_image": "20240913_161859_924_1.jpg",
+    "crop_name": "20240913_161859_924_1_tag5.jpg",
+    "variant_used": "clahe",
+    "product_name": "998",
+    "price": "998",
+    "currency": null,
+    "value": "998",
+    "extra_info": "998"
+  },
+  {
+    "source_image": "20240913_161859_924_1.jpg",
+    "crop_name": "20240913_161859_924_1_tag6.jpg",
+    "variant_used": "clahe",
+    "product_name": "299",
+    "price": "299",
+    "currency": null,
+    "value": "299",
+    "extra_info": "299"
+  },
+  {
+    "source_image": "20240913_161859_924_1.jpg",
+    "crop_name": "20240913_161859_924_1_tag7.jpg",
+    "variant_used": "clahe",
+    "product_name": "49",
+    "price": "499",
+    "currency": null,
+    "value": "499",
+    "extra_info": "49"
+  },
+  {
+    "source_image": "20240913_161859_924_1.jpg",
+    "crop_name": "20240913_161859_924_1_tag8.jpg",
+    "variant_used": "clahe",
+    "product_name": "229",
+    "price": "229",
+    "currency": null,
+    "value": "229",
+    "extra_info": "229"
+  },
+  {
+    "source_image": "20240913_161859_924_1.jpg",
+    "crop_name": "20240913_161859_924_1_tag9.jpg",
+    "variant_used": "clahe",
+    "product_name": "499",
+    "price": "499",
+    "currency": null,
+    "value": "499",
+    "extra_info": "499"
+  },
+  {
+    "source_image": "20240913_161859_924_1.jpg",
+    "crop_name": "20240913_161859_924_1_tag10.jpg",
+    "variant_used": "clahe",
+    "product_name": "219",
+    "price": "219",
+    "currency": null,
+    "value": "219",
+    "extra_info": "219"
+  },
+  {
+    "source_image": "20240913_161859_924_1.jpg",
+    "crop_name": "20240913_161859_924_1_tag11.jpg",
+    "variant_used": "orig",
+    "product_name": "よ』",
+    "price": "259",
+    "currency": null,
+    "value": "259",
+    "extra_info": "よ』"
+  },
+  {
+    "source_image": "20240913_161859_924_1.jpg",
+    "crop_name": "20240913_161859_924_1_tag12.jpg",
+    "variant_used": "clahe",
+    "product_name": "199",
+    "price": "199",
+    "currency": null,
+    "value": "199",
+    "extra_info": "199"
+  },
+  {
+    "source_image": "20240913_161859_924_1.jpg",
+    "crop_name": "20240913_161859_924_1_tag13.jpg",
+    "variant_used": "clahe",
+    "product_name": "269",
+    "price": "769",
+    "currency": null,
+    "value": "769",
+    "extra_info": "269"
+  },
+  {
+    "source_image": "20240913_161859_924_1.jpg",
+    "crop_name": "20240913_161859_924_1_tag14.jpg",
+    "variant_used": "clahe",
+    "product_name": "229",
+    "price": "229",
+    "currency": null,
+    "value": "229",
+    "extra_info": "229"
+  },
+  {
+    "source_image": "20250529_032222-285.jpg",
+    "crop_name": "20250529_032222-285_tag0.jpg",
+    "variant_used": "orig",
+    "product_name": "199",
+    "price": "199",
+    "currency": null,
+    "value": "199",
+    "extra_info": "199"
+  },
+  {
+    "source_image": "20250529_032813-297.jpg",
+    "crop_name": "20250529_032813-297_tag0.jpg",
+    "variant_used": "thr",
+    "product_name": "こえきき",
+    "price": "09",
+    "currency": null,
+    "value": "09",
+    "extra_info": "37_ | こえきき | 98ニ"
+  },
+  {
+    "source_image": "20250529_032813-297.jpg",
+    "crop_name": "20250529_032813-297_tag1.jpg",
+    "variant_used": "thr",
+    "product_name": "た_",
+    "price": "199",
+    "currency": null,
+    "value": "199",
+    "extra_info": "た_"
+  },
+  {
+    "source_image": "20250529_034321-360.jpg",
+    "crop_name": "20250529_034321-360_tag0.jpg",
+    "variant_used": "orig",
+    "product_name": "田",
+    "price": "03",
+    "currency": null,
+    "value": "03",
+    "extra_info": ""
+  },
+  {
+    "source_image": "20250529_050645-167.jpg",
+    "crop_name": "20250529_050645-167_tag0.jpg",
+    "variant_used": "clahe",
+    "product_name": "フクトマト・ロリース",
+    "price": "259",
+    "currency": null,
+    "value": "259",
+    "extra_info": "AoKKE)-7 | フクトマト・ロリース | 19"
+  },
+  {
+    "source_image": "20250529_050645-167.jpg",
+    "crop_name": "20250529_050645-167_tag1.jpg",
+    "variant_used": "clahe",
+    "product_name": "フルークリー",
+    "price": "259",
+    "currency": null,
+    "value": "259",
+    "extra_info": "JizaJ | 259 | フルークリー"
+  },
+  {
+    "source_image": "20250529_050645-167.jpg",
+    "crop_name": "20250529_050645-167_tag2.jpg",
+    "variant_used": "thr",
+    "product_name": "多巴二",
+    "price": "299",
+    "currency": null,
+    "value": "299",
+    "extra_info": "多巴二"
+  },
+  {
+    "source_image": "20250529_050706-168.jpg",
+    "crop_name": "20250529_050706-168_tag0.jpg",
+    "variant_used": "clahe",
+    "product_name": "@りとんゅつり-ス",
+    "price": "279",
+    "currency": null,
+    "value": "279",
+    "extra_info": "0422n27-7 | @りとんゅつり-ス | 279"
+  },
+  {
+    "source_image": "20250529_050706-168.jpg",
+    "crop_name": "20250529_050706-168_tag1.jpg",
+    "variant_used": "clahe",
+    "product_name": "ウススーノ",
+    "price": "279",
+    "currency": null,
+    "value": "279",
+    "extra_info": "032-1 | ウススーノ | 279"
+  },
+  {
+    "source_image": "20250529_050706-168.jpg",
+    "crop_name": "20250529_050706-168_tag2.jpg",
+    "variant_used": "clahe",
+    "product_name": "329",
+    "price": "329",
+    "currency": null,
+    "value": "329",
+    "extra_info": "329"
+  }
+]

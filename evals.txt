@@ -1,0 +1,178 @@
+EVALUATION PLAN: PRICE TAG DETECTION AND PRICE READING
+=====================================================
+
+1. EVALUATION GOALS
+------------------
+The evaluation aims to assess:
+1. Accuracy of price tag localization
+2. Accuracy of price text extraction
+3. Robustness to glare, lighting variation, and small object size
+4. End-to-end system performance under realistic conditions
+
+Given the limited dataset size, emphasis is placed on:
+- Fair evaluation
+- Avoiding data leakage
+- Qualitative failure analysis in addition to quantitative metrics
+
+------------------------------------------------------------
+
+2. DATA SPLITS USED FOR EVALUATION
+---------------------------------
+Evaluation follows the predefined split on real images:
+
+- Training set: 14 real images (augmented during training)
+- Validation set: 3 real images (untouched)
+- Test set: 3 real images (untouched)
+
+Rules:
+- No augmented image is used for validation or testing
+- Validation is used only for tuning thresholds and early stopping
+- Final metrics are reported only on the test set
+
+------------------------------------------------------------
+
+3. METRICS FOR PRICE TAG DETECTION
+---------------------------------
+
+3.1 Detection Metrics
+- Intersection over Union (IoU)
+- Mean Average Precision (mAP)
+  - mAP@0.5
+  - mAP@0.5:0.95 (optional, if dataset allows)
+
+3.2 Evaluation Procedure
+- A predicted bounding box is considered correct if:
+  - IoU with ground truth ≥ 0.5
+- Report:
+  - Precision
+  - Recall
+  - mAP
+
+3.3 Small Dataset Consideration
+- Metrics are averaged across test images
+- Detection confidence threshold is tuned on validation set
+
+------------------------------------------------------------
+
+4. METRICS FOR OCR (PRICE READING)
+---------------------------------
+
+4.1 Text Recognition Metrics
+- Character Error Rate (CER)
+- Exact Match Accuracy (EMA)
+
+Definitions:
+- CER = (insertions + deletions + substitutions) / total characters
+- Exact Match Accuracy = percentage of prices perfectly recognized
+
+4.2 Price-Specific Evaluation
+- OCR output is post-processed using regex to extract price values
+- Evaluation focuses only on numeric price strings (e.g., ₹129.99)
+
+A prediction is considered correct if:
+- Extracted price exactly matches ground truth price
+
+------------------------------------------------------------
+
+5. END-TO-END PIPELINE EVALUATION
+--------------------------------
+
+End-to-end evaluation measures system performance from input image
+to final structured output.
+
+5.1 End-to-End Accuracy
+A prediction is considered correct if:
+- A price tag is correctly detected (IoU ≥ 0.5)
+AND
+- The corresponding price text is correctly read
+
+Metric:
+- End-to-end price accuracy (%)
+
+5.2 Missed and False Predictions
+- Missed detection: price tag present but not detected
+- False detection: detected tag with no valid price
+- OCR failure: detected tag but incorrect price read
+
+------------------------------------------------------------
+
+6. GLARE-SPECIFIC ROBUSTNESS EVALUATION
+--------------------------------------
+To evaluate glare handling:
+
+- Test images are manually categorized into:
+  - Low glare
+  - Moderate glare
+  - High glare
+
+Metrics reported separately for each category:
+- Detection recall
+- OCR exact match accuracy
+
+This highlights the effectiveness of:
+- Glare augmentation during training
+- CLAHE-based preprocessing at inference
+
+------------------------------------------------------------
+
+7. ABLATION STUDIES
+------------------
+The following controlled experiments are performed:
+
+7.1 Augmentation Ablation
+- Train model without glare augmentation
+- Train model with glare augmentation
+- Compare detection recall and OCR accuracy
+
+7.2 OCR Preprocessing Ablation
+- OCR without CLAHE
+- OCR with CLAHE
+- OCR with multi-variant inference
+- Compare CER and exact match accuracy
+
+------------------------------------------------------------
+
+8. QUALITATIVE ERROR ANALYSIS
+-----------------------------
+Quantitative metrics are supplemented with qualitative analysis.
+
+8.1 Failure Case Visualization
+- Examples of:
+  - Missed detections
+  - Incorrect bounding boxes
+  - OCR errors due to glare or occlusion
+
+8.2 Error Categorization
+Errors are grouped into:
+- Severe glare saturation
+- Extremely small text
+- Partial occlusion
+- Motion blur
+
+Each category is discussed with representative examples.
+
+------------------------------------------------------------
+
+9. FINAL MODEL SELECTION
+------------------------
+- Best model is selected based on:
+  - Validation set mAP (detection)
+  - Validation OCR exact match accuracy
+- After evaluation, a final model may be retrained using all 20 real images
+  for deployment or demonstration purposes.
+
+------------------------------------------------------------
+
+10. REPORTING RESULTS
+--------------------
+Final report includes:
+- Detection metrics table
+- OCR accuracy table
+- End-to-end accuracy
+- Glare-wise performance breakdown
+- Qualitative examples and failure discussion
+
+This ensures both quantitative rigor and real-world relevance.
+
+END OF EVALUATION PLAN
+=====================================================

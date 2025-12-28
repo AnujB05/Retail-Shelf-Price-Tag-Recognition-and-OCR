@@ -1,0 +1,32 @@
+[
+  {
+    "source_image": "20250529_031857-251.jpg",
+    "crop_name": "20250529_031857-251_tag0.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "ヘフーシニニ",
+    "price": "149",
+    "currency": null,
+    "value": "149",
+    "extra_info": "376722-|149|ヘフーシニニ"
+  },
+  {
+    "source_image": "20250529_031857-251.jpg",
+    "crop_name": "20250529_031857-251_tag1.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "727=",
+    "price": "109",
+    "currency": null,
+    "value": "109",
+    "extra_info": "727=|一ュ二|109"
+  },
+  {
+    "source_image": "20250529_031857-251.jpg",
+    "crop_name": "20250529_031857-251_tag2.jpg",
+    "variant_used": "final_multiscale_eval_consistent",
+    "product_name": "‥ーミミーーーン",
+    "price": "279",
+    "currency": null,
+    "value": "279",
+    "extra_info": "23|‥ーミミーーーン|279"
+  }
+]

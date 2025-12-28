@@ -1,0 +1,39 @@
+{
+  "totals": {
+    "gt_tags": 93,
+    "detected_tags": 80,
+    "correct_prices": 73
+  },
+  "metrics": {
+    "detection_recall": 0.86,
+    "ocr_price_accuracy": 0.912,
+    "end_to_end_accuracy": 0.785
+  },
+  "per_image": {
+    "20240913_161202_1111_2.jpg": {
+      "gt_tags": 20,
+      "detected": 20,
+      "correct_prices": 17
+    },
+    "20240913_161202_1111_3.jpg": {
+      "gt_tags": 25,
+      "detected": 20,
+      "correct_prices": 18
+    },
+    "20240913_161821_921_3.jpg": {
+      "gt_tags": 21,
+      "detected": 21,
+      "correct_prices": 21
+    },
+    "20250529_035137-373.jpg": {
+      "gt_tags": 8,
+      "detected": 7,
+      "correct_prices": 5
+    },
+    "20250529_034303-359.jpg": {
+      "gt_tags": 19,
+      "detected": 12,
+      "correct_prices": 12
+    }
+  }
+}
