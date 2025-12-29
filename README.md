@@ -3,19 +3,23 @@
 A complete end-to-end computer vision system for detecting supermarket shelf price tags, cropping them, reading the printed price using OCR, and producing structured outputs in JSON format. The pipeline is engineered to operate under realistic retail conditions such as blur, lighting glare, small and distant tags, mixed English–Japanese text, and inconsistent tag layouts.
 
 # -> Project Directory Structure
-root
+root/
 ├── Sample Dataset/
 ├── Details.docx
 ├── evals/
 ├── plan/
-│
 ├── project/
 │   ├── config/
 │   ├── data/
 │   │   ├── raw/
-│   │   ├── crops/
-│   │   ├── results/
-│   │   └── annotations/
+│   │   └── crops/
+|   |   └── results/
+|   |   └── roboflow/
+|   |   └── eval/
+|   |   └── splits/
+|   |   └── annotations/
+│   ├── results/
+│   ├── annotations/
 │   ├── detection/
 │   ├── eval/
 │   ├── final_outputs/
@@ -24,10 +28,8 @@ root
 │   ├── ocr/
 │   ├── pipeline/
 │   ├── training/
-│   ├── utils/
-│   │
-│   └── run_pipeline_on_shelf_image.py
-│
+│   └── utils/
+├── run_pipeline_on_shelf_image.py
 ├── yolov8n.pt
 ├── setup_proj.py
 └── README.md
